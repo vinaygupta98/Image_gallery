@@ -10,8 +10,6 @@ const PhotoModal = ({
 }) => {
   const handleClose = () =>
     setShow(false);
-  const handleShow = () =>
-    setShow(true);
 
   return (
     <Modal
