@@ -2,7 +2,11 @@
   "name": "image-gallery",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "homepage": "http://vinaygupta98.github.io/Image_gallery",
+=======
+  "homepage": "https://vinaygupta98.github.io/image-gallery",
+>>>>>>> d4e94a5d950ae1f8f2d3fa959f97896a10f3cb6f
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -20,7 +24,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build"  
   },
   "eslintConfig": {
     "extends": [
